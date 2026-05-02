@@ -355,3 +355,9 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,node,intellij,visualstudiocode,redis
 
 SimplyCodes
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
